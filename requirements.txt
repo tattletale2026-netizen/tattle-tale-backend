@@ -1,7 +1,0 @@
-Flask
-Flask-SQLAlchemy
-Flask-Cors
-psycopg2-binary
-resend
-python-dotenv
-gunicorn
